@@ -1,1 +1,3 @@
-Estudo de React Native e Typescript, aplicativo lista de compras.
+# **Lista de Comras**
+
+Estudo criando aplicação de lista de comrpas em React Native e Typescript.
